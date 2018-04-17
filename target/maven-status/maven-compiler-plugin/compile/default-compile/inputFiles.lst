@@ -2,4 +2,7 @@
 /Users/SSkedge/homeDev/SpringTest/src/main/java/com/springtest/configuration/SwaggerConfig.java
 /Users/SSkedge/homeDev/SpringTest/src/main/java/com/springtest/configuration/RestConfig.java
 /Users/SSkedge/homeDev/SpringTest/src/main/java/com/springtest/controllers/HomeController.java
+/Users/SSkedge/homeDev/SpringTest/src/main/java/com/springtest/controllers/error/exceptions/UrlNotFoundException.java
+/Users/SSkedge/homeDev/SpringTest/src/main/java/com/springtest/domain/ErrorInfo.java
 /Users/SSkedge/homeDev/SpringTest/src/main/java/com/springtest/controllers/HomeControllerImpl.java
+/Users/SSkedge/homeDev/SpringTest/src/main/java/com/springtest/controllers/error/GlobalControllerExceptionHandler.java

@@ -1,5 +1,8 @@
-com/springtest/configuration/RestConfig.class
 com/springtest/configuration/SwaggerConfig.class
 com/springtest/controllers/HomeController.class
 com/springtest/controllers/HomeControllerImpl.class
+com/springtest/domain/ErrorInfo.class
 com/springtest/SpringTestApplication.class
+com/springtest/controllers/error/GlobalControllerExceptionHandler.class
+com/springtest/controllers/error/exceptions/UrlNotFoundException.class
+com/springtest/configuration/RestConfig.class

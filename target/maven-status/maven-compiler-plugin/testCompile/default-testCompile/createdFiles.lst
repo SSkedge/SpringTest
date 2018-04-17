@@ -1,1 +1,4 @@
+com/springtest/domain/AbstractErrorInfoAssert.class
 com/springtest/controllers/homeControllerTests.class
+com/springtest/util/Assertions.class
+com/springtest/domain/ErrorInfoAssert.class
