@@ -1,7 +1,7 @@
-#SpringTest - A test program for a Spring Boot Api
+# SpringTest - A test program for a Spring Boot Api
 
-###To run: mvn spring-boot:run
+### To run: mvn spring-boot:run
 
-###Unit tests: mvn clean test
+### Unit tests: mvn clean test
 
-###Swagger url: http://localhost:8080/swagger-ui.html
+### Swagger url: http://localhost:8080/swagger-ui.html
